@@ -14,13 +14,13 @@ BMI = weight / height​
 
 BMI Categories :
 Underweight: BMI < 18.5,
-Normal Weight: 18.5 – 24.9,
-Overweight: 25 – 29.9,
-Obese: BMI ≥ 30
+ Normal Weight: 18.5 – 24.9,
+  Overweight: 25 – 29.9,
+   Obese: BMI ≥ 30
 
 Features :
-User input validation
-Accurate BMI calculation
-Health category classification
-Error handling for invalid inputs
-(GUI interface – if advanced version)
+User input validation,
+ Accurate BMI calculation,
+  Health category classification,
+   Error handling for invalid input,s
+    (GUI interface – if advanced version)
