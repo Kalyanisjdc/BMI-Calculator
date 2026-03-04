@@ -13,9 +13,9 @@ BMI Formula :
 BMI = weight / height​
 
 BMI Categories :
-Underweight: BMI < 18.5
-Normal Weight: 18.5 – 24.9
-Overweight: 25 – 29.9
+Underweight: BMI < 18.5,
+Normal Weight: 18.5 – 24.9,
+Overweight: 25 – 29.9,
 Obese: BMI ≥ 30
 
 Features :
